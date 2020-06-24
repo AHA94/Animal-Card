@@ -1,0 +1,65 @@
+
+
+#title {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	margin-left: 2px;
+	color: #0e0c01;
+	padding: 4px;
+
+
+}
+#card{
+
+    border: 1px solid rgb(139, 113, 74);
+    padding: 8px;
+    background-color: rgb(205, 226, 219);
+    width: 400px;
+}
+
+#imag {
+    width: 300px;
+	margin: 0px auto;
+    display: block;
+    border-radius: 10px;
+
+}
+
+#fact {
+	border: 1px solid rgb(139, 113, 74);
+    border-radius: 8px;
+    margin: 10px;
+    padding: 10px;
+    background-color: palegoldenrod;
+    line-height: 20px;
+    font-style: italic;
+}
+
+.info {
+	list-style-type: none;
+    padding: 0;
+    margin: 10px;
+    border: 1px solid rgb(139, 113, 74);
+    border-radius: 8px;
+    padding: 10px;
+    background-color:palegoldenrod;
+}
+
+.details-cont{
+    border: 1px solid;
+    padding: 10px;
+}
+
+.item {
+	font-weight: bold;
+}
+
+.des {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px; 
+    border: 1px solid rgb(139, 113, 74);
+    border-radius: 8px;
+    padding: 10px;
+    background-color: palegoldenrod;
+
+
+}
